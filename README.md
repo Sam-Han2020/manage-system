@@ -1,6 +1,6 @@
 # Web应用开发
 前端：
-···bash
+```bash
 npm run serve
 ```
 数据表：使用datagrip导入
